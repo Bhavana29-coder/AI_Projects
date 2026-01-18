@@ -1,0 +1,121 @@
+Description,Amount,Category
+Pizza from Dominos,450,Food
+Burger from McDonalds,320,Food
+Lunch at restaurant,600,Food
+Street food snacks,120,Food
+Coffee at cafe,180,Food
+Grocery shopping,2200,Food
+Dinner takeaway,550,Food
+Breakfast order,200,Food
+Ice cream,150,Food
+Sandwich,90,Food
+Milk and bread,120,Food
+Veg meal,250,Food
+Chicken biryani,350,Food
+Pizza party,900,Food
+Lunch box,180,Food
+Bakery items,140,Food
+Fruit purchase,300,Food
+Evening snacks,110,Food
+Dinner buffet,800,Food
+Cold drink,60,Food
+Uber ride,300,Travel
+Bus ticket,40,Travel
+Train ticket,120,Travel
+Metro pass,500,Travel
+Cab to airport,900,Travel
+Auto ride,150,Travel
+Fuel refill,1200,Travel
+Taxi fare,350,Travel
+Bike service fuel,600,Travel
+Parking fee,80,Travel
+Office commute,250,Travel
+Weekend trip travel,2000,Travel
+Flight booking,5500,Travel
+Car wash travel,200,Travel
+Toll charges,120,Travel
+Cab return trip,400,Travel
+Bus monthly pass,700,Travel
+Train reservation,900,Travel
+Fuel top-up,1000,Travel
+Local transport,90,Travel
+Monthly house rent,15000,Rent
+Room rent,8000,Rent
+Office rent,22000,Rent
+Hostel fees,6000,Rent
+PG rent,9000,Rent
+Apartment rent,18000,Rent
+Advance rent payment,30000,Rent
+Rental deposit,25000,Rent
+Shop rent,12000,Rent
+Garage rent,3000,Rent
+Warehouse rent,20000,Rent
+Monthly lease,16000,Rent
+Shared flat rent,10000,Rent
+Studio apartment rent,14000,Rent
+Paying rent,15000,Rent
+Office space rent,28000,Rent
+House lease payment,20000,Rent
+Temporary stay rent,5000,Rent
+Room booking rent,7000,Rent
+Monthly stay rent,11000,Rent
+Bought clothes,2500,Shopping
+Shoes purchase,3200,Shopping
+Online shopping,1800,Shopping
+Mobile accessories,1200,Shopping
+Grocery mall shopping,3500,Shopping
+Electronics purchase,5000,Shopping
+Gift shopping,2200,Shopping
+Furniture purchase,7000,Shopping
+Amazon order,1600,Shopping
+Flipkart shopping,2100,Shopping
+Watch purchase,4000,Shopping
+Bag purchase,1500,Shopping
+Kitchen items,2300,Shopping
+Home decor,2800,Shopping
+Stationery items,600,Shopping
+Laptop accessories,3500,Shopping
+Phone purchase,18000,Shopping
+Online sale shopping,2900,Shopping
+Clothing store bill,2600,Shopping
+Daily essentials,1200,Shopping
+Electricity bill,1200,Utilities
+Water bill,450,Utilities
+Internet bill,999,Utilities
+Gas cylinder,1100,Utilities
+Mobile recharge,399,Utilities
+Broadband bill,1299,Utilities
+Maintenance charges,2000,Utilities
+Power bill,1350,Utilities
+Water tanker,800,Utilities
+Society charges,1800,Utilities
+Internet installation,2500,Utilities
+Cable TV bill,300,Utilities
+Phone bill,600,Utilities
+Electric repair,900,Utilities
+Plumbing service,700,Utilities
+AC service,2500,Utilities
+Appliance repair,1200,Utilities
+Gas refill,1050,Utilities
+Maintenance repair,1600,Utilities
+House utilities,1400,Utilities
+Netflix subscription,499,Entertainment
+Movie tickets,800,Entertainment
+Concert tickets,2500,Entertainment
+Game purchase,1500,Entertainment
+Music subscription,299,Entertainment
+OTT subscription,699,Entertainment
+Bowling game,600,Entertainment
+Theme park tickets,1800,Entertainment
+Online games,900,Entertainment
+Cinema snacks,450,Entertainment
+YouTube premium,129,Entertainment
+Spotify subscription,199,Entertainment
+Event tickets,2200,Entertainment
+Comedy show,1200,Entertainment
+Video game,3000,Entertainment
+Streaming service,799,Entertainment
+Mobile games purchase,350,Entertainment
+Live show,2000,Entertainment
+Weekend entertainment,1500,Entertainment
+Club entry fee,1000,Entertainment

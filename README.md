@@ -1,21 +1,24 @@
 
 
+##   AI Quiz Generator – README.md
 
-##   MNIST Image Classification – README.md
-
-`MNIST_Image_Classification/README.md`
+ `AI_Quiz_Generator/README.md`
 
 ```markdown
-# MNIST Image Classification
+# AI Quiz Generator (Prototype)
 
-## Project Overview
-This project uses a Convolutional Neural Network (CNN) built with PyTorch to classify handwritten digits from the MNIST dataset.
+##  Project Overview
+This is a prototype AI-based quiz generator that creates quiz questions dynamically using AI.
+
+##  Features
+- Generates quiz questions automatically
+- Interactive user interface
+- Prototype-level implementation
 
 ##  Technologies Used
 - Python
-- PyTorch
-- Torchvision
-- Matplotlib
+- Streamlit
+- OpenAI API
 
 ##  How to Run
 1. Install dependencies:

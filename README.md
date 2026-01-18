@@ -1,21 +1,26 @@
-# Expense Category Classification (PyTorch)
 
-## Project Overview
-This project classifies expenses into predefined categories using a deep learning model built with PyTorch.
 
-## Features
-- Data preprocessing and cleaning
-- Neural network model using PyTorch
-- Expense category prediction
 
-## Technologies Used
-- Python
-- PyTorch
-- Pandas
-- NumPy
-- Scikit-learn
+## Power BI Project – README.md
 
-##  How to Run
-1. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
+ `PowerBI_Project/README.md`
+
+```markdown
+# Power BI Dashboard Project
+
+##  Project Overview
+This Power BI project focuses on data visualization and business insights using interactive dashboards.
+
+##  Features
+- Interactive charts and visuals
+- Business insights from data
+- Clean and structured dashboard design
+
+##  Tools Used
+- Power BI Desktop
+
+##  Screenshots
+Dashboard screenshots are included in the `screenshots` folder.
+
+## File Information
+- `.pbix` file contains the complete Power BI report

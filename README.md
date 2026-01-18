@@ -1,26 +1,23 @@
 
 
 
-## Power BI Project – README.md
+##   MNIST Image Classification – README.md
 
- `PowerBI_Project/README.md`
+`MNIST_Image_Classification/README.md`
 
 ```markdown
-# Power BI Dashboard Project
+# MNIST Image Classification
 
-##  Project Overview
-This Power BI project focuses on data visualization and business insights using interactive dashboards.
+## Project Overview
+This project uses a Convolutional Neural Network (CNN) built with PyTorch to classify handwritten digits from the MNIST dataset.
 
-##  Features
-- Interactive charts and visuals
-- Business insights from data
-- Clean and structured dashboard design
+##  Technologies Used
+- Python
+- PyTorch
+- Torchvision
+- Matplotlib
 
-##  Tools Used
-- Power BI Desktop
-
-##  Screenshots
-Dashboard screenshots are included in the `screenshots` folder.
-
-## File Information
-- `.pbix` file contains the complete Power BI report
+##  How to Run
+1. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
